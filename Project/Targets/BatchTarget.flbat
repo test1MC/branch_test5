@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA"
+      Type="DITA"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse"
+      Type="Eclipse Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="EPUB"
+      Type="EPUB"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="FM"
+      Type="FrameMaker"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Tripane - Audience A"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Tripane - Audience B"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WH"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WHM"
+      Type="WebHelp Mobile"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WHP"
+      Type="WebHelp Plus"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTML"
+      Type="XHTML Book"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>
